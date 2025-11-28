@@ -1,4 +1,4 @@
-# repo_tutorial 1
+# repo_tutorial de Auxiliar
 
 Este es un cambio que realizo en el README
 
